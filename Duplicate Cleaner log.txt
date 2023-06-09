@@ -1,0 +1,221 @@
+07-07-2018 07:38:20
+Duplicate Cleaner Free 4.0.5 installed.
+07-07-2018 07:53:42
+Scanning: Regular mode
+- Same content (MD5)
+
+Included: *.*
+I:\Download\
+I:\documents\
+I:\DCIM\
+I:\Vedios\
+I:\LOST.DIR\
+
+07-07-2018 07:53:51
+Scan complete
+Total time taken: 00:00:08
+14725/14725 files scanned (18.1 GB)
+155 groups of duplicates
+320 files have duplicates(9.67 MB)
+Hashes calculated: 541
+Quick Hashes calculated: 1511
+Useful Quick Hashes: 1544
+
+07-07-2018 07:56:24
+
+
+0 file(s) have been deleted.
+Total time taken: 00:00:06
+
+07-07-2018 07:56:40
+Deleted: I:\DCIM\.thumbnails\1529510660686.jpg
+Deleted: I:\DCIM\.thumbnails\1529808072111.jpg
+Deleted: I:\DCIM\.thumbnails\1529808072241.jpg
+Deleted: I:\DCIM\.thumbnails\1529808072377.jpg
+Deleted: I:\DCIM\.thumbnails\1529808073225.jpg
+Deleted: I:\DCIM\.thumbnails\1529808073773.jpg
+Deleted: I:\DCIM\.thumbnails\1529808074389.jpg
+Deleted: I:\DCIM\.thumbnails\1529808626108.jpg
+Deleted: I:\DCIM\.thumbnails\1529808074714.jpg
+Deleted: I:\DCIM\.thumbnails\1529808075002.jpg
+Deleted: I:\DCIM\.thumbnails\1529808075093.jpg
+Deleted: I:\DCIM\.thumbnails\1529808074789.jpg
+Deleted: I:\DCIM\.thumbnails\1529808625229.jpg
+Deleted: I:\DCIM\.thumbnails\1529808625772.jpg
+Deleted: I:\DCIM\.thumbnails\1529808626082.jpg
+Deleted: I:\DCIM\.thumbnails\1529808625924.jpg
+Deleted: I:\DCIM\.thumbnails\1529808626030.jpg
+Deleted: I:\DCIM\.thumbnails\1529808625890.jpg
+Deleted: I:\DCIM\.thumbnails\1529808625807.jpg
+Deleted: I:\DCIM\.thumbnails\1529808624799.jpg
+Deleted: I:\DCIM\.thumbnails\1529808622137.jpg
+Deleted: I:\DCIM\.thumbnails\1529808621299.jpg
+Deleted: I:\DCIM\.thumbnails\1529808621526.jpg
+Deleted: I:\DCIM\.thumbnails\1530491972502.jpg
+Deleted: I:\DCIM\.thumbnails\1530491972290.jpg
+Deleted: I:\DCIM\.thumbnails\1529902403637.jpg
+Deleted: I:\DCIM\.thumbnails\1530458991897.jpg
+Deleted: I:\DCIM\.thumbnails\1530458991969.jpg
+Deleted: I:\DCIM\.thumbnails\1530458990872.jpg
+Deleted: I:\DCIM\.thumbnails\1529976757675.jpg
+Deleted: I:\DCIM\.thumbnails\1529976757773.jpg
+Deleted: I:\DCIM\.thumbnails\1529976757845.jpg
+Deleted: I:\DCIM\.thumbnails\1530491970935.jpg
+Deleted: I:\DCIM\.thumbnails\1529976757988.jpg
+Deleted: I:\DCIM\.thumbnails\1530458992667.jpg
+Deleted: I:\DCIM\.thumbnails\1530458992553.jpg
+Deleted: I:\DCIM\.thumbnails\1529976758198.jpg
+Deleted: I:\DCIM\.thumbnails\1529976758290.jpg
+Deleted: I:\DCIM\.thumbnails\1529976758321.jpg
+Deleted: I:\DCIM\.thumbnails\1530491971436.jpg
+Deleted: I:\DCIM\.thumbnails\1530491971296.jpg
+Deleted: I:\DCIM\.thumbnails\1529976759229.jpg
+Deleted: I:\DCIM\.thumbnails\1530491971220.jpg
+Deleted: I:\DCIM\.thumbnails\1529976759404.jpg
+Deleted: I:\DCIM\.thumbnails\1529976759469.jpg
+Deleted: I:\DCIM\.thumbnails\1530458990505.jpg
+Deleted: I:\DCIM\.thumbnails\1530376048724.jpg
+Deleted: I:\DCIM\.thumbnails\1530116696465.jpg
+Deleted: I:\DCIM\.thumbnails\1530376048411.jpg
+Deleted: I:\DCIM\.thumbnails\1530376048287.jpg
+Deleted: I:\DCIM\.thumbnails\1530376048225.jpg
+Deleted: I:\DCIM\.thumbnails\1530491323679.jpg
+Deleted: I:\DCIM\.thumbnails\1530861306539.jpg
+Deleted: I:\DCIM\Camera\1522737582090.jpg
+Deleted: I:\DCIM\Camera\1522904740850.jpg
+Deleted: I:\DCIM\Camera\1522904770154.jpg
+Deleted: I:\DCIM\Camera\1522905219003.jpg
+Deleted: I:\DCIM\Camera\1522905221362.jpg
+Deleted: I:\DCIM\Camera\1522905458967.jpg
+Deleted: I:\DCIM\Camera\1522924103008.jpg
+Deleted: I:\DCIM\Camera\1522924103135.jpg
+Deleted: I:\DCIM\Camera\1522924109665.jpg
+Deleted: I:\DCIM\Camera\1522924119059.jpg
+Deleted: I:\DCIM\Camera\1522924119966.jpg
+Deleted: I:\DCIM\Camera\1522924127555.jpg
+Deleted: I:\DCIM\Camera\1522924129360.jpg
+Deleted: I:\DCIM\Camera\1522924142144.jpg
+Deleted: I:\DCIM\Camera\1522924142278.jpg
+Deleted: I:\DCIM\Camera\1522924165013.jpg
+Deleted: I:\DCIM\Camera\1522924167877.jpg
+Deleted: I:\DCIM\Camera\1522924169820.jpg
+Deleted: I:\DCIM\Camera\1522924171202.jpg
+Deleted: I:\DCIM\Camera\1525309611700.jpg
+Deleted: I:\DCIM\Camera\1525309626254.jpg
+Deleted: I:\DCIM\Camera\1525309627536.jpg
+Deleted: I:\DCIM\Camera\1525309912344.jpg
+Deleted: I:\DCIM\Camera\1525309915594.jpg
+Deleted: I:\DCIM\Camera\1525309920691.jpg
+Deleted: I:\DCIM\Camera\1525309921377.jpg
+Deleted: I:\DCIM\Camera\1525309921990.jpg
+Deleted: I:\DCIM\Camera\1525309926861.jpg
+Deleted: I:\DCIM\Camera\1525309931135.jpg
+Deleted: I:\DCIM\Camera\1525309937198.jpg
+Deleted: I:\DCIM\Camera\1525309943020.jpg
+Deleted: I:\DCIM\Camera\1525309946345.jpg
+Deleted: I:\DCIM\Camera\1525309949515.jpg
+Deleted: I:\DCIM\Camera\1525309950117.jpg
+Deleted: I:\DCIM\Camera\1525309950273.jpg
+Deleted: I:\DCIM\Camera\1525309954326.jpg
+Deleted: I:\DCIM\Camera\1525309958541.jpg
+Deleted: I:\DCIM\Camera\1525309965730.jpg
+Deleted: I:\DCIM\Camera\1525309981779.jpg
+Deleted: I:\DCIM\Camera\1525309988006.jpg
+Deleted: I:\DCIM\Camera\1525309991543.jpg
+Deleted: I:\DCIM\Camera\1525309997322.jpg
+Deleted: I:\DCIM\Camera\1525309998439.jpg
+Deleted: I:\DCIM\Camera\1525309999145.jpg
+Deleted: I:\DCIM\Camera\1525310000364.jpg
+Deleted: I:\DCIM\Camera\1525310000599.jpg
+Deleted: I:\DCIM\Camera\1525310014731.jpg
+Deleted: I:\DCIM\Camera\1525310015987.jpg
+Deleted: I:\DCIM\Camera\1525310018949.jpg
+Deleted: I:\DCIM\Camera\1525310019155.jpg
+Deleted: I:\DCIM\Camera\1525310021774.jpg
+Deleted: I:\DCIM\Camera\1525310027366.jpg
+Deleted: I:\DCIM\Camera\1525310028934.jpg
+Deleted: I:\DCIM\Camera\1525310030050.jpg
+Deleted: I:\DCIM\Camera\1525310033960.jpg
+Deleted: I:\DCIM\Camera\1525310045225.jpg
+Deleted: I:\DCIM\Camera\1525310048994.jpg
+Deleted: I:\DCIM\Camera\1525310062973.jpg
+Deleted: I:\DCIM\Camera\1525310063531.jpg
+Deleted: I:\DCIM\Camera\1525310063787.jpg
+Deleted: I:\DCIM\Camera\1525310064733.jpg
+Deleted: I:\DCIM\Camera\1525310068564.jpg
+Deleted: I:\DCIM\Camera\1525310070263.jpg
+Deleted: I:\DCIM\Camera\1525310076376.jpg
+Deleted: I:\DCIM\Camera\1525310078295.jpg
+Deleted: I:\DCIM\Camera\1525310083247.jpg
+Deleted: I:\DCIM\Camera\1525310085136.jpg
+Deleted: I:\DCIM\Camera\1525310102805.jpg
+Deleted: I:\DCIM\Camera\1525310112629.jpg
+Deleted: I:\DCIM\Camera\1525310118013.jpg
+Deleted: I:\DCIM\Camera\1525310124940.jpg
+Deleted: I:\DCIM\Camera\1525310125438.jpg
+Deleted: I:\DCIM\Camera\1525310129829.jpg
+Deleted: I:\DCIM\Camera\1525310134133.jpg
+Deleted: I:\DCIM\Camera\1525310137904.jpg
+Deleted: I:\DCIM\Camera\1525310144274.jpg
+Deleted: I:\DCIM\Camera\1525310145797.jpg
+Deleted: I:\DCIM\Camera\1525310150235.jpg
+Deleted: I:\DCIM\Camera\1525310151214.jpg
+Deleted: I:\DCIM\Camera\1525310152295.jpg
+Deleted: I:\DCIM\Camera\1525310160046.jpg
+Deleted: I:\DCIM\Camera\1525310169612.jpg
+Deleted: I:\DCIM\Camera\1525310171240.jpg
+Deleted: I:\DCIM\Camera\1525310172364.jpg
+Deleted: I:\DCIM\Camera\1525310182387.jpg
+Deleted: I:\DCIM\Camera\1525310193166.jpg
+Deleted: I:\DCIM\Camera\1525310199030.jpg
+Deleted: I:\DCIM\Camera\1525310202818.jpg
+Deleted: I:\DCIM\Camera\1525310213617.jpg
+Deleted: I:\DCIM\Camera\1525310213804.jpg
+Deleted: I:\DCIM\Camera\1525310214694.jpg
+Deleted: I:\DCIM\Camera\1525310215459.jpg
+Deleted: I:\DCIM\Camera\1525310219430.jpg
+Deleted: I:\DCIM\Camera\1525310220766.jpg
+Deleted: I:\DCIM\Camera\1525310220944.jpg
+Deleted: I:\DCIM\Camera\1525310221071.jpg
+Deleted: I:\DCIM\Camera\1525310224410.jpg
+Deleted: I:\DCIM\Camera\1525311046726.jpg
+Deleted: I:\DCIM\Camera\1525311051975.jpg
+Deleted: I:\DCIM\Camera\1525311054511.jpg
+Deleted: I:\documents\B.TechACReg16-17 (1).pdf
+Deleted: I:\Vedios\Seeti Maar Full Video Song _ DJ Video Songs _ Allu Arjun _ Pooja Hegde _ DSP.mp4
+Deleted: I:\Vedios\a7711625a500c8535f67ddc034486ae6.mp4
+Deleted: I:\Vedios\2e766cf65f460f31a55570d7134e92d3.mp4
+Deleted: I:\Vedios\VID-20180101-WA0040.mp4
+Deleted: I:\Vedios\Laali Laali Full Video Song __ Khakee Video Songs __ Karthi_ Rakul Preet __ Ghibran.mp4
+Deleted: I:\Vedios\Freedom Full Video Song _ Lie Video Songs _ Nithiin _ Megha Akash _ Mani Sharma.mp4
+Deleted: I:\Vedios\7b85c412d069fdd5aef6f060d0834e21.mp4
+Deleted: I:\Vedios\Yelo Yedarilo Vaana Full Video Song __ Katamarayudu Video Songs __ PawanKalyan __ ShrutiHaasan__Anup.mp4
+Deleted: I:\Vedios\5f3906aae45e70c118bc8ce59ba9c6b1.mp4
+Deleted: I:\Vedios\Brahmotsavam Movie Emotional Scene - Mahesh Babu - Samantha - Kajal Aggarwal - Mickey J Meyer_3711.mp4
+Deleted: I:\Vedios\Bharat Ane Nenu (2018) Telugu HDRip - x264 - MP3 - ESub.mkv.mp4
+
+
+165 file(s) have been deleted.
+Total time taken: 00:00:05
+
+07-07-2018 07:56:50
+Scanning: Regular mode
+- Same content (MD5)
+
+Included: *.*
+I:\Download\
+I:\documents\
+I:\DCIM\
+I:\Vedios\
+I:\LOST.DIR\
+
+07-07-2018 07:56:54
+Scan complete
+Total time taken: 00:00:03
+14560/14560 files scanned (18.1 GB)
+0 groups of duplicates
+0 files have duplicates(0 Bytes)
+Hashes calculated: 0
+Quick Hashes calculated: 0
+Useful Quick Hashes: 0
+
